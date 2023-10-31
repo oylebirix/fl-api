@@ -1,5 +1,5 @@
 const config = {
-    MONGO_DB_URL:"mongodb://localhost:27017/firstdate",
+    MONGO_DB_URL:"mongodb://localhost:27017/koddemo",
     MONGO_DB_URL_DEBUG:"",
     PORT:process.env.PORT || 3300,
     PRIVATE_KEY:"56454743358713353",
