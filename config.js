@@ -11,7 +11,7 @@ const config = {
     ONE_SIGNAL_SECRET:"YmI4MTljN2ItMmU5MC00NmY1LWFmNDQtYjYxOWFhMGZlNDUz",
     HOST:"http://78.135.85.174:3300",
     APP_NAME:"FlörtEt",
-    EMAIL: "mylittleloveqx@gmail.com",
+    EMAIL: "info@carpeapp.site",
     AUTHOR:"FlörtEt",
 }
 module.exports = config
